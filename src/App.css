@@ -1,0 +1,12 @@
+.tired{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    place-content: center center;
+}
+
+.movie_column{
+    display:grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    place-content: center center;
+
+}
